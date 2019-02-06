@@ -13,3 +13,14 @@ p{
 ul{
   line-height: 40px;
 }
+body{
+  background-color: pink;
+}
+h1{
+  font-family: serif;
+}
+
+ul{
+  font-style: italic;
+
+}
