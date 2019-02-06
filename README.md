@@ -5,7 +5,7 @@
 {This website contains a webpage talking about my favorite things.including links and photos.}
 ## Setup/Installation Requirements
 * Clone this repository to your desktop and run it on terminal. use the command (git clone URL.git)
-{This webpage doesn't require any other tool or code to run. it also doesn't require other dependancies}
+{This webpage doesn't require any other tool or code to run. it also doesnat require other dependancies}
 ## Known Bugs
 {No issues or bugs in this repository}
 ## Technologies Used
